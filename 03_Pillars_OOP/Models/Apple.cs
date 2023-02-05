@@ -1,3 +1,4 @@
+namespace PillarsOOP.Models;
 public class Apple : Fruit
 {
     public int NumberOfSeeds { get; set; }
